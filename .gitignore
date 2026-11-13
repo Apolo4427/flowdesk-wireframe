@@ -1,0 +1,20 @@
+# FlowDesk: lista de archivos permitidos en el repositorio publico.
+# Por defecto, ignorar todo lo que exista en la raiz.
+/*
+
+# Control de versiones y configuracion de GitHub Pages.
+!/.gitignore
+!/.nojekyll
+
+# Las seis pantallas del prototipo.
+!/index.html
+!/servicios.html
+!/nueva-solicitud.html
+!/resumen.html
+!/mis-solicitudes.html
+!/detalle-solicitud.html
+
+# Hoja de estilos: unico recurso necesario en assets.
+!/assets/
+/assets/*
+!/assets/styles.css
